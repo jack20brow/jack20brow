@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Jack 👋
 
 - 📚 I’m studying Computer Science
 - 📍 University of Barcelona
